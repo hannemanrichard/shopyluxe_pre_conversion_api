@@ -696,7 +696,7 @@ export default function Home() {
                                     : "border-gray-200"
                                 }`}
                               >
-                                2 Ensembles (13900 DA)
+                                2 Ensembles (13000 DA)
                               </div>
                             </div>
                           </div>
@@ -785,7 +785,7 @@ export default function Home() {
                         </p> */}
                               <p className="sm:flex block text-center mt-12 justify-center">
                                 <span className="text-5xl text-amber-500 font-bold  block sm:inline">
-                                  {offer === 1 ? "6900" : "13900"} DA
+                                  {offer === 1 ? "6900" : "13000"} DA
                                 </span>
 
                                 <span className="  text-lg line-through block sm:inline">
